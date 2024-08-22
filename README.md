@@ -2,7 +2,6 @@
   <a href="https://en.gemsync.xyz"><img src="https://gemsync.xyz/images/gemsync.png" alt="Logo" width="25%" height="auto"></a>
 
   # Subdomain - GemSync - EN
-  [![Version](https://img.shields.io/badge/Version%20:-v1.0-6479ee?labelColor=23272A)](https://en.gemsync.xyz)
   [![GitHub](https://img.shields.io/badge/20syldev-333333?logo=Github&logoColor=white)](https://github.com/20syldev)
   [![GemSync](https://img.shields.io/badge//gemsync-3857ab)](https://github.com/20syldev/gemsync)
 </div>

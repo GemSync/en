@@ -1,8 +1,8 @@
-name: Deploy Subdomain en.gemsync.xyz
+name: Deploy en.gemsync.xyz
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
     
   workflow_dispatch:
 
